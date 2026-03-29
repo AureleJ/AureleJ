@@ -50,4 +50,4 @@
 ## 📫 Contact & Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aurelejoblet/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aurelejoblet.dev-black?style=flat&logo=safari)](http://aurelejoblet.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aurelejoblet.dev-black?style=flat&logo=safari)](http://aurelejoblet.com)
