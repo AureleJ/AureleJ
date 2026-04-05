@@ -1,6 +1,6 @@
 # Hi, I'm Aurèle 👋
 
-🎓 Engineering student at **ESIEA Laval** | Passionate about Embedded Systems, IoT & Hardware Maker 🚀
+🎓 Engineering student at **ESIEA Laval** | Passionate about Embedded Systems, IoT, Hardware Maker and web development  
 
 ---
 
